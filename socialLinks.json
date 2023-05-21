@@ -18,4 +18,9 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:1442289497@qq.com"
+}, {
+    "name": "Telegram",
+    "icon": "/images/icon/telegram.png",
+    "tip": "加入我的电报群",
+    "url": "https://t.me/+9UyVBJmbx3cxYmU9"
 }]
